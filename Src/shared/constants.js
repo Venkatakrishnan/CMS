@@ -1,0 +1,2 @@
+export const personQuery = "select PERSONID,FIRSTNM, LASTNM, EMAILADDRESS, RECORDINSERTDT from person order by RECORDINSERTDT DESC";
+export const personCountQuery = "select count(*) as TotalCount from person";

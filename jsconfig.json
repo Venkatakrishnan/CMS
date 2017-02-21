@@ -1,0 +1,15 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "mapRoot": "C:\\Users\\VeSwaminathan\\vs\\expressApi\\Src",
+    "module": "commonjs",
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "rootDir": "C:\\Users\\VeSwaminathan\\vs\\expressApi\\dist",
+    "target": "es6"
+  }
+}
