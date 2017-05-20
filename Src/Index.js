@@ -29,7 +29,7 @@ initDbPool()
 app.use(cors());
 app.get('/', (req, res) => {
     debugger;
-    res.send(`Welcome to express api for AdminSuite!
+    res.send(`Welcome to express api!
 This api is written in node.js & express framework. It uses the node-oracledb lib for node.js 
 which is a generic API which works as the Oracle Database access layer to perform data operations connected to an Oracle Db data store.
 `)
